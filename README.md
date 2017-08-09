@@ -50,26 +50,26 @@ After you have completed your project, **deploy to heroku** to get practice gett
 
 
 #### TEAM 1
-Kevin
-Joanne
-Sepp
-James
+- Kevin
+- Joanne
+- Sepp
+- James
 
 #### TEAM 2
-Mary
-Daryl
-Ryan
-Dan
+- Mary
+- Hidaner
+- Ryan
+- Dan
 
 #### TEAM 3
-Chris P
-Bryan
-Hidaner
+- Chris P
+- Bryan
+- Daryl
 
 #### TEAM 4
-Stacy
-Chris F
-Garrick
+- Stacy
+- Chris F
+- Garrick
 
 
 ## Presentation
