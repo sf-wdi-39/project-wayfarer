@@ -4,7 +4,38 @@
 
 ---
 
-## Sprint 1: Basic Auth & Profiles
+## Sprint 1: CRUD
+
+**A user should be able to:**
+
+1. View the "San Francisco" page (at "/cities/1") including:
+  * The site-wide header.
+  * The name of the city.
+  * An iconic photo of the city.
+1. View a list of posts on the San Francisco page:
+  * Sorted by newest first.
+  * With the post titles linked to the individual post "show" pages.
+1. Use an "Add New Post" button on the San Francisco city page to pull up the new post form.
+1. Create a new post for San Francisco<!--(**Hint:** <a href="http://guides.rubyonrails.org/routing.html#nested-resources" target="_blank">nested resources</a>)-->.
+1. Click "Edit" on ANY individual post, and be redirected to the edit form.
+1. Click "delete" on ANY individual post, then:
+  * See a pop-up that says: "Are you sure you want to delete #{title}?"
+  * If the user confirms, delete the post.
+
+### Bonuses
+
+**A user should be able to:**
+
+1. Visit city pages via pretty urls, like "/cities/san-francisco".
+1. Visit user profile pages via pretty urls, like "/users/james".
+1. On a city's page:
+  * See post content truncated to 1000 characters max, with a link to view more.
+  * See a relative published date, e.g. "2 days ago".
+
+
+---
+
+## Sprint 2: Basic Auth & Profiles
 
 **A user should be able to:**
 
@@ -32,35 +63,6 @@
 1. See their profile photo next to their posts.
 1. Receive a welcome email after creating an account.
 
----
-
-## Sprint 2: CRUD
-
-**A user should be able to:**
-
-1. View the "San Francisco" page (at "/cities/1") including:
-  * The site-wide header.
-  * The name of the city.
-  * An iconic photo of the city.
-1. View a list of posts on the San Francisco page:
-  * Sorted by newest first.
-  * With the post titles linked to the individual post "show" pages.
-1. Use an "Add New Post" button on the San Francisco city page to pull up the new post form.
-1. Create a new post for San Francisco<!--(**Hint:** <a href="http://guides.rubyonrails.org/routing.html#nested-resources" target="_blank">nested resources</a>)-->.
-1. Click "Edit" on ANY individual post, and be redirected to the edit form.
-1. Click "delete" on ANY individual post, then:
-  * See a pop-up that says: "Are you sure you want to delete #{title}?"
-  * If the user confirms, delete the post.
-
-### Bonuses
-
-**A user should be able to:**
-
-1. Visit city pages via pretty urls, like "/cities/san-francisco".
-1. Visit user profile pages via pretty urls, like "/users/james".
-1. On a city's page:
-  * See post content truncated to 1000 characters max, with a link to view more.
-  * See a relative published date, e.g. "2 days ago".
 
 ---
 
