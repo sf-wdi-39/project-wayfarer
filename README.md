@@ -49,12 +49,18 @@ After you have completed your project, **deploy to heroku** to get practice gett
 5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work into pairs so that each group member is interested, challenged, and productive?
 
 
-#### TEAM 1: TODO
+#### TEAM 1
+
+#### TEAM 2
+
+#### TEAM 3
+
+#### TEAM 4
 
 
 ## Presentation
 
-Each group will present their project on **DATE** starting at **TIME** for 10 minutes.
+Each group will present their project on **Monday, August 14th** starting at **11:00am** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
