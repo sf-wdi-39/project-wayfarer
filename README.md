@@ -74,7 +74,7 @@ After you have completed your project, **deploy to heroku** to get practice gett
 
 ## Presentation
 
-Each group will present their project on **Monday, August 14th** starting at **11:00am** for 10 minutes.
+Each group will present their project on **Tuesday, August 15th** starting at **1:30pm** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
